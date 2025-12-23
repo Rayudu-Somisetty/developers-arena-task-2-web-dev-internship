@@ -8,7 +8,7 @@ A fully responsive and visually appealing portfolio website built with modern HT
 
 ## 🚀 Live Demo
 
-**Deployment URL:** [Add your deployment link here]
+**Deployment URL:** (https://rayudu-somisetty.github.io/developers-arena-task-2-web-dev-internship/)
 
 <!-- Examples:
 - GitHub Pages: https://rayudu-somisetty.github.io/developers-arena-task-2-web-dev-internship/
